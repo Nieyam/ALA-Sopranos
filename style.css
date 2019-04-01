@@ -34,5 +34,6 @@ ul li a:hover {
 }
   
 nav a:hover {
-    text-transform: uppercase;  
+    text-transform: uppercase; 
+    transition: 1.5s;  
 }
