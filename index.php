@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Document</title>
+    <title>Pizzeria Soprano's</title>
   </head>
 
   <nav> <!-- Hier begint de NAV bar -->
@@ -16,7 +16,7 @@
  </nav> <!-- Hier eindigt de NAV bar -->
 
   <body>
-    <h1> Welkom </h1>
+    <br><br><br>
       <div id="tekst"> 
         <br>
         

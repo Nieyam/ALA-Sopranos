@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="style.css">
-    <title>Bestellen</title>
+    <title>Soprano's Bestellen</title>
   </head>
 
   <nav> <!-- Hier begint de NAV bar -->
@@ -17,7 +17,7 @@
  </nav> <!-- Hier eindigt de NAV bar -->
 
   <body>
-    <h1>Bestellen</h1>
+      <br><br><br>
         <div id="tekst"> 
         <table cellspacing="2" cellpadding="2">
             <tr>
@@ -48,4 +48,22 @@
 <?php
 //CSS
 echo "<link rel='stylesheet' href='style.css'>";
+
+
+// Kan gebruikt worden om een unieke bestellingsnummer te krijgen
+// class Random{
+//             public static function Numeric($length)
+//                 {
+//                     $chars = "1234567890";
+//                     $clen   = strlen( $chars )-1;
+//                     $id  = '';
+        
+//                     for ($i = 0; $i < $length; $i++) {
+//                             $id .= $chars[mt_rand(0,$clen)];
+//                     }
+//                     return ($id);
+//                 }
+//             }
+  
+// echo Random::Numeric(7);
 ?>

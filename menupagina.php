@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="style.css">
-    <title>Menu</title>
+    <title>Soprano's Menu</title>
   </head>
 
   <nav> <!-- Hier begint de NAV bar -->
@@ -17,9 +17,9 @@
  </nav> <!-- Hier eindigt de NAV bar -->
 
   <body>
-    <h1>Menu</h1>
+    <br><br><br>
       <div id="tekst"> 
-        <br>
+        
         
       </div>
   </body>
