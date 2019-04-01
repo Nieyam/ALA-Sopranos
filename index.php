@@ -9,7 +9,7 @@
 
   <nav> <!-- Hier begint de NAV bar -->
     <ul>
-        <li><a href="index.html">Welkom</a></li>
+        <li><a href="index.php">Welkom</a></li>
         <li><a href="menupagina.php">Menu</a></li>
         <li><a href="bestelpagina.php">Bestellen</a></li>
     </ul>
