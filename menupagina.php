@@ -18,8 +18,10 @@
 
   <body>
     <h1>Menu</h1>
-    <input required type="text" name="naam" placeholder="Vul uw volledige naam in">
-
+      <div id="tekst"> 
+        <br>
+        
+      </div>
   </body>
 </html>
 

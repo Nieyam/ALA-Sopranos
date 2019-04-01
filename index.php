@@ -16,7 +16,11 @@
  </nav> <!-- Hier eindigt de NAV bar -->
 
   <body>
-    <h1>Hoi :)</h1>
+    <h1> Welkom </h1>
+      <div id="tekst"> 
+        <br>
+        
+      </div>
   </body>
 </html>
 

@@ -1,7 +1,8 @@
-* {
+body {
     background-color: lightgray;
 }
 
+/*CSS NAVbar */
 ul { 
     margin: 0px;
     padding: 0px;
@@ -37,3 +38,12 @@ nav a:hover {
     text-transform: uppercase; 
     transition: 1.5s;  
 }
+/*CSS NAVbar */
+
+/*CSS tekstvak menupagina */
+#tekst { 
+    margin-left: 25%;
+    background-color: white;
+    width: 50%;
+}
+/*CSS tekstvak menupagina */
