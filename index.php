@@ -6,7 +6,22 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Document</title>
   </head>
+
+  <nav> <!-- Hier begint de NAV bar -->
+    <ul>
+        <li><a href="index.html">Welkom</a></li>
+        <li><a href="menupagina.php">Menu</a></li>
+        <li><a href="bestelpagina.php">Bestellen</a></li>
+    </ul>
+ </nav> <!-- Hier eindigt de NAV bar -->
+
   <body>
     <h1>Hoi :)</h1>
   </body>
 </html>
+
+<!--PHP-->
+<?php
+//CSS
+echo "<link rel='stylesheet' href='style.css'>";
+?>
