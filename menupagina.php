@@ -20,7 +20,7 @@
     <br><br><br>
         <div class="container">
           <ul>
-            <li> <div class="title">Pepperoni</div> </li>
+            <li><div class="title">Pepperoni</div> </li>
             <li> <div class="title">Hawaii</div> </li>
             <li> <div class="title">Formaggi</div> </li>
             <li> <div class="title">BBQ Bacon</div> </li>

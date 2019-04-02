@@ -17,10 +17,13 @@
 
   <body>
     <br><br><br>
-      <div id="tekst"> 
-        
-        
+      <div class="box">
+        <h1>Welkom bij Soprano's</h1>
+        <p>De beste pizzeria in Amsterdam, Utrecht en Rotterdam.</p>
       </div>
+        
+        
+
   </body>
 </html>
 
