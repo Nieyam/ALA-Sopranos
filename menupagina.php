@@ -18,10 +18,19 @@
 
   <body>
     <br><br><br>
-      <div id="tekst"> 
-        
-        
-      </div>
+        <div class="container">
+          <ul>
+            <li> <div class="title">Pepperoni</div> </li>
+            <li> <div class="title">Hawaii</div> </li>
+            <li> <div class="title">Formaggi</div> </li>
+            <li> <div class="title">BBQ Bacon</div> </li>
+            <br>
+            <li> <div class="title">Comming soon</div> </li>
+            <li> <div class="title">Comming soon</div> </li>
+            <li> <div class="title">Comming soon</div> </li>
+            <li> <div class="title">Comming soon</div> </li>
+          </ul>
+        </div>   
   </body>
 </html>
 
