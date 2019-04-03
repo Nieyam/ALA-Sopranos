@@ -79,19 +79,19 @@
 
     <!-- News container-->
     <div class="container-fluid">
-      <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Nieuws</h2>
+      <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Pizza</h2>
       <div class="row d-flex justify-content-around">
         <div class="card news-card col-3 buffer-small  " style="width: 18rem;">
           <a href="https://www.destentor.nl/apeldoorn/eeuwenoude-route-op-veluwe-weer-iets-meer-zichtbaar~a0465d1e/" target="_blank"><img src="img/nieuws1.jpg" class="card-img-top news-img" alt="..." /></a>
           <div class="card-body">
-            <h4 class="card-text">Eeuwenoude route op Veluwe weer iets meer zichtbaar</h4>
+            <h4 class="card-text">Pizza</h4>
             <a href="https://www.destentor.nl/apeldoorn/eeuwenoude-route-op-veluwe-weer-iets-meer-zichtbaar~a0465d1e/" target="_blank" class="btn btn-news font-weight-bold">Meer..</a>
           </div>
         </div>
         <div class="card news-card col-3 buffer-small" style="width: 18rem;">
           <a href="https://dutchitchannel.nl/618700/yes-delft-the-hague-locatie-geopend.html" target="_blank"><img src="img/YesDelft-430x400.jpg" class="card-img-top news-img" alt="..." /></a>
           <div class="card-body">
-            <h4 class="card-text">YES!Delft The Hague locatie geopend</h4>
+            <h4 class="card-text">Pizza</h4>
             <a href="https://dutchitchannel.nl/618700/yes-delft-the-hague-locatie-geopend.html" target="_blank" class="btn btn-news font-weight-bold">Meer..</a>
           </div>
         </div>
@@ -99,7 +99,7 @@
           <a href="https://adodenhaag.nl/nl/nieuws/laatste-nieuws/overig/7642-ado-den-haag-zoekt-stewards" target="_blank">
             <img src="img/nieuws3.jpg" class="card-img-top news-img" alt="..." /></a>
           <div class="card-body">
-            <h4 class="card-text">ADO DEN HAAG ZOEKT STEWARDS!</h4>
+            <h4 class="card-text">Pizza</h4>
             <a href="https://adodenhaag.nl/nl/nieuws/laatste-nieuws/overig/7642-ado-den-haag-zoekt-stewards" target="_blank" class="btn btn-news font-weight-bold">Meer..</a>
           </div>
         </div>
@@ -109,7 +109,7 @@
           <a href="https://indebuurt.nl/denhaag/nieuws/nieuw-in/haagse-nerds-opgelet-deze-grote-gamestore-opent-binnenkort-in-het-centrum~84652/" target="_blank"><img src="img/nieuws4.jpg" class="card-img-top" alt="..." /></a>
           <div class="card-body">
             <h4 class="card-text">
-              Haagse nerds opgelet! Deze grote gamestore opent binnenkort in het centrum
+            Pizza
             </h4>
             <a href="https://indebuurt.nl/denhaag/nieuws/nieuw-in/haagse-nerds-opgelet-deze-grote-gamestore-opent-binnenkort-in-het-centrum~84652/" target="_blank" class="btn btn-news font-weight-bold">Meer..</a>
           </div>
@@ -117,7 +117,7 @@
         <div class="card news-card col-3 buffer-small" style="width: 18rem;">
           <a href="https://www.1limburg.nl/weinig-animo-docenten-um-voor-staking-den-haag" target="_blank"><img src="img/nieuws5.jpg" class="card-img-top" alt="..." /></a>
           <div class="card-body">
-            <h4 class="card-text">Weinig animo docenten UM voor staking in Den Haag</h4>
+            <h4 class="card-text">Pizza</h4>
             <a href="https://www.1limburg.nl/weinig-animo-docenten-um-voor-staking-den-haag" target="_blank" class="btn btn-news font-weight-bold">Meer..</a>
           </div>
         </div>
@@ -125,7 +125,7 @@
           <a href="https://www.denhaag.nl/nl/bestuur-en-organisatie/verkiezingen.htm" target="_blank">
             <img src="img/Lokale-politiek0.jpg" class="card-img-top" alt="..." /></a>
           <div class="card-body">
-            <h4 class="card-text">Verkiezingen</h4>
+            <h4 class="card-text">Pizza</h4>
             <a href="https://www.denhaag.nl/nl/bestuur-en-organisatie/verkiezingen.htm" target="_blank" class="btn btn-news font-weight-bold">Meer..</a>
           </div>
         </div>
