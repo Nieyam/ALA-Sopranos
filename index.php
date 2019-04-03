@@ -112,7 +112,7 @@ $result = $conn->query($sql);
 
     <!--Info Container-->
     <div class="container-fluid">
-      <!--<h2 class="text-center bot-buffer font-weight-bold" class="headNews">header2</h2>-->
+      <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Over Sopranos</h2>
       <div class="row d-flex justify-content-around">
         <div class="card mb-3 col " style="max-width: 18rem;">
           <div class="card-header"></div>
@@ -217,32 +217,32 @@ $result = $conn->query($sql);
         <div class="col-sm"></div>
       </div>
     </div>
-    <!--Footer-->
-    <div class="container-fluid" style="width: 100%;">
-      <footer class="top-buffer  ">
-        <div class="row">
-          <div class="col-md-4 footer-name">
-            <span class="copyright">Copyright &copy; Sopranos Pizza</span>
-          </div>
-          <div class="col-md-4">
-            <ul class="list-inline social-buttons">
-              <li class="list-inline-item">
-                <a href="https://twitter.com/GemeenteDenHaag" target="_blank">
-                  <i class="fab fa-twitter"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://www.facebook.com/gemeenteDH/" target="_blank">
-                  <i class="fab fa-facebook-f"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://www.instagram.com/gemeentedenhaag/?hl=nl" target="_blank">
-                  <i class="fab fa-instagram"></i>
-                </a>
-              </li>
-            </ul>
-          </div>
+  </div>
+  <!--Footer-->
+  <div class="container-fluid" style="width: 100%;">
+    <footer class="top-buffer  ">
+      <div class="row">
+        <div class="col-md-4 footer-name">
+          <span class="copyright">Copyright &copy; Sopranos Pizza</span>
+        </div>
+        <div class="col-md-4">
+          <ul class="list-inline social-buttons">
+            <li class="list-inline-item">
+              <a href="https://twitter.com/new_york_pizza?lang=en" target="_blank">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://www.facebook.com/PizzaHut/" target="_blank">
+                <i class="fab fa-facebook-f"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://www.instagram.com/pizzahut/?hl=en" target="_blank">
+                <i class="fab fa-instagram"></i>
+              </a>
+            </li>
+          </ul>
         </div>
       </footer>
     </div>
