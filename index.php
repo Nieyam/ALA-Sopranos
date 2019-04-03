@@ -55,23 +55,21 @@
         <div class="card-header"></div>
         <div class="card-body">
           <a class="card-title" href="menu.php">Menu bekijken</a>
-          <p class="card-text">foo</p>
+          <p class="card-text">Klik hier om het menu te bekijken</p>
         </div>
       </div>
       <div class="card mb-3 col " style="max-width: 18rem;">
         <div class="card-header"></div>
         <div class="card-body">
           <a class="card-title" href="order.php">Pizza bestellen</a>
-          <p class="card-text">bar</p>
+          <p class="card-text">Klik hier om een pizza te bestellen</p>
         </div>
       </div>
       <div class="card mb-3 col" style="max-width: 18rem;">
         <div class="card-header"></div>
         <div class="card-body">
-          <a class="card-title" href="foo.php">baz</a>
-          <p class="card-text">
-            baz
-          </p>
+          <a class="card-title" href="foo.php">Contact</a>
+          <p class="card-text">Neem contact met ons op!</p>
         </div>
       </div>
     </div>
@@ -79,19 +77,19 @@
 
     <!-- News container-->
     <div class="container-fluid">
-      <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Pizza</h2>
+      <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Over Soprano's</h2>
       <div class="row d-flex justify-content-around">
         <div class="card news-card col-3 buffer-small  " style="width: 18rem;">
           <a href="https://www.destentor.nl/apeldoorn/eeuwenoude-route-op-veluwe-weer-iets-meer-zichtbaar~a0465d1e/" target="_blank"><img src="img/nieuws1.jpg" class="card-img-top news-img" alt="..." /></a>
           <div class="card-body">
-            <h4 class="card-text">Pizza</h4>
+            <h4 class="card-text">Kies jouw vestiging</h4>
             <a href="https://www.destentor.nl/apeldoorn/eeuwenoude-route-op-veluwe-weer-iets-meer-zichtbaar~a0465d1e/" target="_blank" class="btn btn-news font-weight-bold">Meer..</a>
           </div>
         </div>
         <div class="card news-card col-3 buffer-small" style="width: 18rem;">
           <a href="https://dutchitchannel.nl/618700/yes-delft-the-hague-locatie-geopend.html" target="_blank"><img src="img/YesDelft-430x400.jpg" class="card-img-top news-img" alt="..." /></a>
           <div class="card-body">
-            <h4 class="card-text">Pizza</h4>
+            <h4 class="card-text">Aanbiedingen</h4>
             <a href="https://dutchitchannel.nl/618700/yes-delft-the-hague-locatie-geopend.html" target="_blank" class="btn btn-news font-weight-bold">Meer..</a>
           </div>
         </div>
@@ -99,7 +97,7 @@
           <a href="https://adodenhaag.nl/nl/nieuws/laatste-nieuws/overig/7642-ado-den-haag-zoekt-stewards" target="_blank">
             <img src="img/nieuws3.jpg" class="card-img-top news-img" alt="..." /></a>
           <div class="card-body">
-            <h4 class="card-text">Pizza</h4>
+            <h4 class="card-text">Werken bij Soprano's</h4>
             <a href="https://adodenhaag.nl/nl/nieuws/laatste-nieuws/overig/7642-ado-den-haag-zoekt-stewards" target="_blank" class="btn btn-news font-weight-bold">Meer..</a>
           </div>
         </div>
