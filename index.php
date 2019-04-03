@@ -55,22 +55,22 @@
         <div class="card-header"></div>
         <div class="card-body">
           <a class="card-title" href="menu.php">Menu bekijken</a>
-          <p class="card-text"></p>
+          <p class="card-text">foo</p>
         </div>
       </div>
       <div class="card mb-3 col " style="max-width: 18rem;">
         <div class="card-header"></div>
         <div class="card-body">
           <a class="card-title" href="order.php">Pizza bestellen</a>
-          <p class="card-text"></p>
+          <p class="card-text">bar</p>
         </div>
       </div>
       <div class="card mb-3 col" style="max-width: 18rem;">
         <div class="card-header"></div>
         <div class="card-body">
-          <a class="card-title" href="foo.php">foo</a>
+          <a class="card-title" href="foo.php">baz</a>
           <p class="card-text">
-
+            baz
           </p>
         </div>
       </div>
