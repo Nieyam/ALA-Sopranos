@@ -2,10 +2,6 @@ body {
   background: #ffffff;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 nav {
   background-color: #f5f5f5;
 }
@@ -29,10 +25,9 @@ nav ul li a:hover {
 }
 
 #jumbo {
-  background-image: url("../img/skylines.jpg");
+  background-image: url("../img/italian-3.jpg");
   background-size: 100% 100%;
   background-repeat: no-repeat;
-  filter: saturate(200%);
   height: 500px;
 }
 
@@ -53,7 +48,7 @@ nav ul li a:hover {
 
 .news-img {
   border-radius: 25px;
-  border: rgba(0, 0, 0, 0.2) 1px solid;
+  /*border: rgba(0, 0, 0, 0.2) 1px solid;*/
 }
 
 .btn-news {

@@ -118,14 +118,14 @@ $result = $conn->query($sql);
           <div class="card-header"></div>
           <div class="card-body">
             <a class="card-title" href="menu.php">Menu bekijken</a>
-            <p class="card-text">foo</p>
+            <p class="card-text">Bekijk <del>ons</del> <ins>jouw</ins> menu!</p>
           </div>
         </div>
         <div class="card mb-3 col " style="max-width: 18rem;">
           <div class="card-header"></div>
           <div class="card-body">
             <a class="card-title" href="order.php">Pizza bestellen</a>
-            <p class="card-text">bar</p>
+            <p class="card-text">Bestel een pizza bij Sopranos!</p>
           </div>
         </div>
         <div class="card mb-3 col" style="max-width: 18rem;">
@@ -148,10 +148,10 @@ $result = $conn->query($sql);
             <a
               href="https://www.destentor.nl/apeldoorn/eeuwenoude-route-op-veluwe-weer-iets-meer-zichtbaar~a0465d1e/"
               target="_blank"
-              ><img src="img/nieuws1.jpg" class="card-img-top news-img" alt="..."
+              ><img src="img/bbq.png" class="card-img-top news-img" alt="..."
             /></a>
             <div class="card-body">
-              <h4 class="card-text">Eeuwenoude route op Veluwe weer iets meer zichtbaar</h4>
+              <h4 class="card-text">2019. De nieuwe Sopranos Deluxe.</h4>
               <a
                 href="https://www.destentor.nl/apeldoorn/eeuwenoude-route-op-veluwe-weer-iets-meer-zichtbaar~a0465d1e/"
                 target="_blank"
@@ -164,10 +164,10 @@ $result = $conn->query($sql);
             <a
               href="https://dutchitchannel.nl/618700/yes-delft-the-hague-locatie-geopend.html"
               target="_blank"
-              ><img src="img/YesDelft-430x400.jpg" class="card-img-top news-img" alt="..."
+              ><img src="img/italian-4.jpg" class="card-img-top news-img" alt="..."
             /></a>
             <div class="card-body">
-              <h4 class="card-text">YES!Delft The Hague locatie geopend</h4>
+              <h4 class="card-text">De beste pizzas.</h4>
               <a
                 href="https://dutchitchannel.nl/618700/yes-delft-the-hague-locatie-geopend.html"
                 target="_blank"
@@ -181,10 +181,10 @@ $result = $conn->query($sql);
               href="https://adodenhaag.nl/nl/nieuws/laatste-nieuws/overig/7642-ado-den-haag-zoekt-stewards"
               target="_blank"
             >
-              <img src="img/nieuws3.jpg" class="card-img-top news-img" alt="..."
+              <img src="img/bbq.png" class="card-img-top news-img" alt="..."
             /></a>
             <div class="card-body">
-              <h4 class="card-text">ADO DEN HAAG ZOEKT STEWARDS!</h4>
+              <h4 class="card-text"></h4>
               <a
                 href="https://adodenhaag.nl/nl/nieuws/laatste-nieuws/overig/7642-ado-den-haag-zoekt-stewards"
                 target="_blank"
@@ -228,7 +228,7 @@ $result = $conn->query($sql);
         <div class="col-md-4">
           <ul class="list-inline social-buttons">
             <li class="list-inline-item">
-              <a href="https://twitter.com/new_york_pizza?lang=en" target="_blank">
+              <a href="https://twitter.com/pizzahut" target="_blank">
                 <i class="fab fa-twitter"></i>
               </a>
             </li>
@@ -238,7 +238,7 @@ $result = $conn->query($sql);
               </a>
             </li>
             <li class="list-inline-item">
-              <a href="https://www.instagram.com/pizzahut/?hl=en" target="_blank">
+              <a href="https://www.instagram.com/pizzahut/" target="_blank">
                 <i class="fab fa-instagram"></i>
               </a>
             </li>
