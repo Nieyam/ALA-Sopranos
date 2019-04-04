@@ -195,19 +195,19 @@ $result = $conn->query($sql);
               </div>
             </div>
 
-            <!-- Laatste Foto? Wat wordt dit ? -->
+            <!-- Pizza's bestellen -->
             <div class="card news-card col-3 buffer-small" style="width: 18rem;">
               <a
-                href="#Kom hier nog een link?"
+                href="menu.php"
                 target="_blank">
               
                 <img src="img/bbq.png" class="card-img-top news-img" alt="..."/>
               </a>
 
               <div class="card-body">
-                <h4 class="card-text"></h4>
+                <h4 class="card-text">Soprano's overheerlijke pizza's</h4>
                 <a
-                  href="#Kom hier nog een link?"
+                  href="menu.php"
                   target="_blank"
                   class="btn btn-news font-weight-bold">
                   Bestel NU!</a>

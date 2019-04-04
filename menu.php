@@ -92,14 +92,14 @@
         <div class="container-fluid">
           <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Menu</h2>
           <div class="row d-flex justify-content-around">
+            
+            <!--Pizza Formaggi -->
             <div class="card news-card col-3 buffer-small  " style="width: 18rem;">
               <a
                 href="#Kom hier nog een link?"
                 target="_blank">
                 <img src="images/formaggi2.png" class="card-img-top news-img" alt="..."/>
               </a>
-
-              <!--Pizza Formaggi -->
               <div class="card-body">
                 <h4 class="card-text">Pizza Formaggi</h4>
                 <a
@@ -127,14 +127,14 @@
               </div>
             </div>
 
-            <!--Pizza Garnaal -->
+            <!--Pizza Hawaii -->
             <div class="card news-card col-3 buffer-small" style="width: 18rem;">
               <a
                 href="#Kom hier nog een link?"
                 target="_blank">
-                <img src="images/prawn.png" class="card-img-top news-img" alt="..."/> </a>
+                <img src="images/hawaii.png" class="card-img-top news-img" alt="..."/> </a>
               <div class="card-body">
-                <h4 class="card-text">Pizza Prawn Crab</h4>
+                <h4 class="card-text">Pizza Hawaii</h4>
                 <a
                   href="#Kom hier nog een link?"
                   target="_blank"
@@ -144,17 +144,17 @@
             </div>
           </div>
 
-          <!--Pizza Hawaii -->
+          <!--Pizza Garnaal -->
           <div class="row d-flex justify-content-around top-buffer">
             <div class="card news-card col-3 buffer-small" style="width: 18rem;">
               <a
                 href="#Kom hier nog een link?"
                 target="_blank">
-                <img src="images/hawaii.png" class="card-img-top" alt="..."/> </a>
-
+                <span class="action-badge"><img src="yes.png" alt="Pizza Formaggi">
+                <img src="images/prawn.png" class="card-img-top" alt="..."/> </a></span>
               <div class="card-body">
                 <h4 class="card-text">
-                  Pizza Hawaii
+                  Pizza Prawn Crab
                 </h4>
 
                 <a
@@ -170,7 +170,8 @@
               <a
                 href="#Kom hier nog een link?"
                 target="_blank">
-                <img src="images/veggie2.png" class="card-img-top" alt="..."/>
+                <span class="action-badge"><img src="yes.png" alt="Pizza Formaggi">
+                <img src="images/veggie2.png" class="card-img-top" alt="..."/></span>
               </a>
               <div class="card-body">
                 <h4 class="card-text">Pizza Veggie</h4>
@@ -187,7 +188,8 @@
               <a
                 href="#Kom hier nog een link?"
                 target="_blank">
-                <img src="images/spicy.png" class="card-img-top" alt="..."/> </a>
+                <span class="action-badge"><img src="yes.png" alt="Pizza Formaggi">
+                <img src="images/spicy.png" class="card-img-top" alt="..."/> </a></span>
               <div class="card-body">
                 <h4 class="card-text">Pizza Spicy Italiano</h4>
                 <a
