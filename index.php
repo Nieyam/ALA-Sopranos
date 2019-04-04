@@ -153,7 +153,7 @@ $result = $conn->query($sql);
             <a
               href="https://www.destentor.nl/apeldoorn/eeuwenoude-route-op-veluwe-weer-iets-meer-zichtbaar~a0465d1e/"
               target="_blank"
-              ><img src="img/bbq.png" class="card-img-top news-img" alt="..."
+              ><img src="images/pizzza.png" class="card-img-top news-img" alt="..." style="height:238px"
             /></a>
             <div class="card-body">
               <h4 class="card-text">2019. De nieuwe Sopranos Deluxe.</h4>
@@ -228,7 +228,7 @@ $result = $conn->query($sql);
     <footer class="top-buffer  ">
       <div class="row">
         <div class="col-md-4 footer-name">
-          <span class="copyright">Copyright &copy; Sopranos Pizza</span>
+          <span class="copyright">Copyright &copy; Pizzeria Soprano's</span>
         </div>
         <div class="col-md-4">
           <ul class="list-inline social-buttons">

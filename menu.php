@@ -76,7 +76,7 @@
 
     <!--Jumbotron feature-->
     <div class="jumbotron paral" id="jumbo">
-      <h1 class="text-center">Afspraak maken</h1>
+      <h1 class="text-center">Bekijk ons menu!</h1>
     </div>
 
     <!-- Menu container-->
@@ -85,104 +85,105 @@
       <div class="row d-flex justify-content-around">
         <div class="card news-card col-3 buffer-small  " style="width: 18rem;">
           <a
-            href="https://www.destentor.nl/apeldoorn/eeuwenoude-route-op-veluwe-weer-iets-meer-zichtbaar~a0465d1e/"
+            href="#Kom hier nog een link?"
             target="_blank"
-            ><img src="img/nieuws1.jpg" class="card-img-top news-img" alt="..."
-          /></a>
+            ><img src="images/formaggi.png" class="card-img-top news-img" alt="..."/>
+          </a>
+
+          <!--Pizza Formaggi -->
           <div class="card-body">
-            <h4 class="card-text">Eeuwenoude route op Veluwe weer iets meer zichtbaar</h4>
+            <h4 class="card-text">Pizza Formaggi</h4>
             <a
-              href="https://www.destentor.nl/apeldoorn/eeuwenoude-route-op-veluwe-weer-iets-meer-zichtbaar~a0465d1e/"
+              href="#Kom hier nog een link?"
               target="_blank"
               class="btn btn-news font-weight-bold"
-              >Meer..</a
-            >
+              >Bestellen</a>
           </div>
         </div>
+
+        <!--Pizza Pepperoni -->
         <div class="card news-card col-3 buffer-small" style="width: 18rem;">
           <a
-            href="https://dutchitchannel.nl/618700/yes-delft-the-hague-locatie-geopend.html"
+            href="#Kom hier nog een link?"
             target="_blank"
-            ><img src="img/YesDelft-430x400.jpg" class="card-img-top news-img" alt="..."
+            ><img src="images/pepperoni2.png" class="card-img-top news-img" alt="..."
           /></a>
           <div class="card-body">
-            <h4 class="card-text">YES!Delft The Hague locatie geopend</h4>
+            <h4 class="card-text">Pizza Pepperoni</h4>
             <a
-              href="https://dutchitchannel.nl/618700/yes-delft-the-hague-locatie-geopend.html"
+              href="#Kom hier nog een link?"
               target="_blank"
               class="btn btn-news font-weight-bold"
-              >Meer..</a
-            >
+              >Bestellen</a>
           </div>
         </div>
+
+        <!--Pizza BBQ Bacon -->
         <div class="card news-card col-3 buffer-small" style="width: 18rem;">
           <a
-            href="https://adodenhaag.nl/nl/nieuws/laatste-nieuws/overig/7642-ado-den-haag-zoekt-stewards"
-            target="_blank"
-          >
-            <img src="img/nieuws3.jpg" class="card-img-top news-img" alt="..."
-          /></a>
+            href="#Kom hier nog een link?"
+            target="_blank">
+            <img src="images/bbq.png" class="card-img-top news-img" alt="..."/> </a>
           <div class="card-body">
-            <h4 class="card-text">ADO DEN HAAG ZOEKT STEWARDS!</h4>
+            <h4 class="card-text">Pizza BBQ Bacon</h4>
             <a
-              href="https://adodenhaag.nl/nl/nieuws/laatste-nieuws/overig/7642-ado-den-haag-zoekt-stewards"
+              href="#Kom hier nog een link?"
               target="_blank"
               class="btn btn-news font-weight-bold"
-              >Meer..</a
-            >
+              >Bestellen</a>
           </div>
         </div>
       </div>
+
+      <!--Pizza Hawaii -->
       <div class="row d-flex justify-content-around top-buffer">
         <div class="card news-card col-3 buffer-small" style="width: 18rem;">
           <a
-            href="https://indebuurt.nl/denhaag/nieuws/nieuw-in/haagse-nerds-opgelet-deze-grote-gamestore-opent-binnenkort-in-het-centrum~84652/"
+            href="#Kom hier nog een link?"
             target="_blank"
-            ><img src="img/nieuws4.jpg" class="card-img-top" alt="..."
-          /></a>
+            ><img src="images/hawaii.png" class="card-img-top" alt="..."/> </a>
           <div class="card-body">
             <h4 class="card-text">
-              Haagse nerds opgelet! Deze grote gamestore opent binnenkort in het centrum
+              Pizza Hawaii
             </h4>
             <a
-              href="https://indebuurt.nl/denhaag/nieuws/nieuw-in/haagse-nerds-opgelet-deze-grote-gamestore-opent-binnenkort-in-het-centrum~84652/"
+              href="#Kom hier nog een link?"
               target="_blank"
               class="btn btn-news font-weight-bold"
-              >Meer..</a
-            >
+              >Bestellen</a>
           </div>
         </div>
+
+        <!--Pizza Veggie -->
         <div class="card news-card col-3 buffer-small" style="width: 18rem;">
           <a
-            href="https://www.1limburg.nl/weinig-animo-docenten-um-voor-staking-den-haag"
+            href="#Kom hier nog een link?"
             target="_blank"
-            ><img src="img/nieuws5.jpg" class="card-img-top" alt="..."
+            ><img src="images/veggie.png" class="card-img-top" alt="..."
           /></a>
           <div class="card-body">
-            <h4 class="card-text">Weinig animo docenten UM voor staking in Den Haag</h4>
+            <h4 class="card-text">Pizza Veggie</h4>
             <a
-              href="https://www.1limburg.nl/weinig-animo-docenten-um-voor-staking-den-haag"
+              href="#Kom hier nog een link?"
               target="_blank"
               class="btn btn-news font-weight-bold"
-              >Meer..</a
-            >
+              >Bestellen</a>
           </div>
         </div>
+
+        <!--Pizza Salami -->
         <div class="card news-card col-3 buffer-small" style="width: 18rem;">
           <a
-            href="https://www.denhaag.nl/nl/bestuur-en-organisatie/verkiezingen.htm"
-            target="_blank"
-          >
-            <img src="img/Lokale-politiek0.jpg" class="card-img-top" alt="..."
-          /></a>
+            href="#Kom hier nog een link?"
+            target="_blank">
+            <img src="images/salami.png" class="card-img-top" alt="..."/> </a>
           <div class="card-body">
-            <h4 class="card-text">Verkiezingen</h4>
+            <h4 class="card-text">Pizza Salami</h4>
             <a
-              href="https://www.denhaag.nl/nl/bestuur-en-organisatie/verkiezingen.htm"
+              href="#Kom hier nog een link?"
               target="_blank"
               class="btn btn-news font-weight-bold"
-              >Meer..</a
-            >
+              >Bestellen</a>
           </div>
         </div>
       </div>
@@ -193,22 +194,22 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4 footer-name">
-            <span class="copyright">Copyright &copy; Gemeente Den Haag</span>
+            <span class="copyright">Copyright &copy; Pizzeria Soprano's</span>
           </div>
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
-                <a href="https://twitter.com/GemeenteDenHaag" target="_blank">
+                <a href="https://twitter.com/pizzahut" target="_blank">
                   <i class="fab fa-twitter"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="https://www.facebook.com/gemeenteDH/" target="_blank">
+                <a href="https://www.facebook.com/PizzaHut/" target="_blank">
                   <i class="fab fa-facebook-f"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="https://www.instagram.com/gemeentedenhaag/?hl=nl" target="_blank">
+                <a href="https://www.instagram.com/pizzahut/" target="_blank">
                   <i class="fab fa-instagram"></i>
                 </a>
               </li>
