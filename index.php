@@ -23,7 +23,7 @@ $result = $conn->query($sql);
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <title>Pizzeria Soprano's</title>
-  
+
     <!--Bootstrap Css and Main Css-->
     <link
       rel="stylesheet"
@@ -100,16 +100,19 @@ $result = $conn->query($sql);
             <span class="navbar-toggler-icon"></span>
           </button>
 
+          <!-- Home -->
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item active">
                 <a class="nav-link" onclick="location.reload()">Home</a>
               </li>
 
+              <!-- Menu -->
               <li class="nav-item">
                 <a class="nav-link" href="menu.php">Menu</a>
               </li>
 
+              <!-- Bestellen -->
               <li class="nav-item">
                 <a class="nav-link" href="order.php">Bestellen</a>
               </li>
@@ -145,7 +148,7 @@ $result = $conn->query($sql);
           <div class="card mb-3 col" style="max-width: 18rem;">
             <div class="card-header"></div>
             <div class="card-body">
-              <a class="card-title" href="openingstijden.php">Openingstijden</a>
+              <a class="card-title" href="openingstijden.php" target="_blank">Openingstijden</a>
               <p class="card-text">
                 Check hier onze openingstijden!
               </p>

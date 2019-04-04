@@ -61,16 +61,19 @@
               <span class="navbar-toggler-icon"></span>
             </button>
 
+            <!-- Home -->
             <div class="collapse navbar-collapse" id="navbarCollapse">
               <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
                   <a class="nav-link" href="index.php">Home</a>
                 </li>
 
+                <!-- Menu -->
                 <li class="nav-item active">
                   <a class="nav-link" onclick="location.reload()">Menu</a>
                 </li>
 
+                <!-- Bestellen -->
                 <li class="nav-item">
                   <a class="nav-link" href="order.php">Bestellen</a>
                 </li>
