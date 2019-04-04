@@ -18,6 +18,13 @@ $result = $conn->query($sql);
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Home - Sopranos Pizza</title>
 
+<<<<<<< HEAD
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Pizzeria Soprano's</title>
+=======
     <!--Bootstrap Css and Main Css-->
     <link
       rel="stylesheet"
@@ -37,6 +44,7 @@ $result = $conn->query($sql);
       crossorigin="anonymous"
     ></script>
     <link rel="stylesheet" href="css/main.css" />
+>>>>>>> cd26c011ebf0f65744a290790e56684f9e2c37cf
 
     <!--Favicon-->
     <link rel="icon" href="img/Soprano small.svg" type="image/x-icon" />
