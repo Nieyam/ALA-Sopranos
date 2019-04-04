@@ -69,7 +69,8 @@
                     src="img/Soprano small.svg"
                     alt=""
                     data-0="width: 80px;"
-                    data-100="width: 50px;" /></a>
+                    data-100="width: 50px;" 
+                    style="width: 50px; transform: scaleX(-1);"/></a>
 
                 <button
                 class="navbar-toggler"
