@@ -122,68 +122,76 @@ $result = $conn->query($sql);
         <div class="card mb-3 col " style="max-width: 18rem;">
           <div class="card-header"></div>
           <div class="card-body">
+          <!-- Bekijk ons menu -->
             <a class="card-title" href="menu.php">Menu bekijken</a>
             <p class="card-text">Bekijk <del>ons</del> <ins>jouw</ins> menu!</p>
           </div>
         </div>
+
+        <!-- Bestel een pizza -->
         <div class="card mb-3 col " style="max-width: 18rem;">
           <div class="card-header"></div>
           <div class="card-body">
             <a class="card-title" href="order.php">Pizza bestellen</a>
-            <p class="card-text">Bestel een pizza bij Sopranos!</p>
+            <p class="card-text">Bestel een pizza bij Soprano's!</p>
           </div>
         </div>
+
+        <!-- Openingstijden -->
         <div class="card mb-3 col" style="max-width: 18rem;">
           <div class="card-header"></div>
           <div class="card-body">
-            <a class="card-title" href="foo.php">baz</a>
+            <a class="card-title" href="foo.php">Openingstijden</a>
             <p class="card-text">
-              baz
+              Check hier onze openingstijden!
             </p>
           </div>
         </div>
       </div>
       <!--End info container-->
 
-      <!-- News container-->
+      <!-- Over Soprano's -->
       <div class="container-fluid">
-        <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Over Sopranos</h2>
+        <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Over Soprano's</h2>
         <div class="row d-flex justify-content-around">
           <div class="card news-card col-3 buffer-small  " style="width: 18rem;">
             <a
-              href="https://www.destentor.nl/apeldoorn/eeuwenoude-route-op-veluwe-weer-iets-meer-zichtbaar~a0465d1e/"
-              target="_blank"
-              ><img src="images/pizzza.png" class="card-img-top news-img" alt="..." style="height:238px"
-            /></a>
+              href="#Kom hier nog een link?"
+              target="_blank">
+              <img src="images/pizzza.png" class="card-img-top news-img" alt="..." style="height:238px"/></a>
+
+            <!-- Soprano's deluxe -->
             <div class="card-body">
               <h4 class="card-text">2019. De nieuwe Sopranos Deluxe.</h4>
               <a
-                href="https://www.destentor.nl/apeldoorn/eeuwenoude-route-op-veluwe-weer-iets-meer-zichtbaar~a0465d1e/"
+                href="#Kom hier nog een link?"
                 target="_blank"
-                class="btn btn-news font-weight-bold"
-                >Meer..</a
-              >
+                class="btn btn-news font-weight-bold">
+                Bestel NU!</a>
             </div>
           </div>
+
+          <!-- De beste pizza's -->
           <div class="card news-card col-3 buffer-small" style="width: 18rem;">
             <a
-              href="https://dutchitchannel.nl/618700/yes-delft-the-hague-locatie-geopend.html"
+              href="#Kom hier nog een link?"
               target="_blank"
-              ><img src="img/italian-4.jpg" class="card-img-top news-img" alt="..."
+              ><img src="images/depizza.jpg" class="card-img-top news-img" alt="..."
             /></a>
             <div class="card-body">
-              <h4 class="card-text">De beste pizzas.</h4>
+              <h4 class="card-text">De beste pizza's</h4>
               <a
-                href="https://dutchitchannel.nl/618700/yes-delft-the-hague-locatie-geopend.html"
+                href="#Kom hier nog een link?"
                 target="_blank"
                 class="btn btn-news font-weight-bold"
-                >Meer..</a
-              >
+                >Bestel NU!</a>
             </div>
           </div>
+
+          <!-- Laatste Foto? Wat wordt dit ? -->
           <div class="card news-card col-3 buffer-small" style="width: 18rem;">
             <a
-              href="https://adodenhaag.nl/nl/nieuws/laatste-nieuws/overig/7642-ado-den-haag-zoekt-stewards"
+              href="#Kom hier nog een link?"
               target="_blank"
             >
               <img src="img/bbq.png" class="card-img-top news-img" alt="..."
@@ -191,10 +199,10 @@ $result = $conn->query($sql);
             <div class="card-body">
               <h4 class="card-text"></h4>
               <a
-                href="https://adodenhaag.nl/nl/nieuws/laatste-nieuws/overig/7642-ado-den-haag-zoekt-stewards"
+                href="#Kom hier nog een link?"
                 target="_blank"
                 class="btn btn-news font-weight-bold"
-                >Meer..</a
+                >Bestel NU!</a
               >
             </div>
           </div>
