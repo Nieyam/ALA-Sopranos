@@ -16,7 +16,7 @@ $result = $conn->query($sql);
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Home - Sopranos Pizza</title>
+    <title>Pizzeria Soprano's</title>
 
 <head>
   <meta charset="UTF-8" />
@@ -28,19 +28,19 @@ $result = $conn->query($sql);
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
       integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
-      crossorigin="anonymous"
-    />
+      crossorigin="anonymous"/>
+
     <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
       integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-      crossorigin="anonymous"
-    />
+      crossorigin="anonymous"/>
+    
     <script
       src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
       integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-      crossorigin="anonymous"
-    ></script>
+      crossorigin="anonymous">
+    </script>
     <link rel="stylesheet" href="css/main.css" />
 
     <!--Favicon-->
@@ -53,8 +53,7 @@ $result = $conn->query($sql);
             width: 400px;
         }
 
-        td,
-        th {
+        td, th {
             border: 1px solid #dddddd;
             text-align: left;
             padding: 8px;
@@ -69,7 +68,7 @@ $result = $conn->query($sql);
   <body>
     <!--Jumbotron feature-->
     <div class="jumbotron paral" id="jumbo">
-      <h1 class="text-center">Sopranos Pizza</h1>
+      <h1 class="text-center">Soprano's Pizza</h1>
     </div>
 
     <!--Navigation-->
@@ -117,11 +116,12 @@ $result = $conn->query($sql);
 
     <!--Info Container-->
     <div class="container-fluid">
-      <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Over Sopranos</h2>
+      <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Over Soprano's</h2>
       <div class="row d-flex justify-content-around">
         <div class="card mb-3 col " style="max-width: 18rem;">
           <div class="card-header"></div>
           <div class="card-body">
+
           <!-- Bekijk ons menu -->
             <a class="card-title" href="menu.php">Menu bekijken</a>
             <p class="card-text">Bekijk <del>ons</del> <ins>jouw</ins> menu!</p>
@@ -164,10 +164,10 @@ $result = $conn->query($sql);
             <div class="card-body">
               <h4 class="card-text">2019. De nieuwe Sopranos Deluxe.</h4>
               <a
-                href="#Kom hier nog een link?"
+                href="sopranosdeluxe.php"
                 target="_blank"
                 class="btn btn-news font-weight-bold">
-                Bestel NU!</a>
+                Coming soon!</a>
             </div>
           </div>
 
@@ -208,7 +208,7 @@ $result = $conn->query($sql);
           </div>
         </div>
       </div>
-      <!-- prices -->
+      <!-- Prijzen -->
       <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Onze prijzen</h2>
       <div class="container-fluid row">
         <div class="col-sm"></div>

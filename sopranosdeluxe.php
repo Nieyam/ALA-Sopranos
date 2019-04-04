@@ -30,27 +30,14 @@
     <link rel="icon" href="img/favicon-194x194.png" type="image/x-icon" />
     <link rel="shortcut icon" href="img/favicon-194x194.png" type="image/x-icon" />
     <style>
-        table {
-            margin-top: -15%;
-            margin-left: 15%;
-            font-family: arial, sans-serif;
-            border-collapse: collapse;
-            width: 400px;
-        }
-
-        td, th {
-            border: 1px solid #dddddd;
-            text-align: left;
-            padding: 8px;
-        }
-
-        tr:nth-child(even) {
-            background-color: #dddddd;
+        h2 {
+            text-align: center;
+            color: white;
         }
 
         #text {
-            margin-left: 50%;
-            margin-top: 15%;
+            text-align: center;
+            margin-top: 5%;
         }
     </style>
   </head>
@@ -100,47 +87,13 @@
 
     <!--Jumbotron feature-->
     <div class="jumbotron paral" id="jumbo">
-      <h1 class="text-center">Openingstijden</h1>
+      <h1 class="text-center">Soprano's Deluxe</h1>
+      <h2>Comming Soon!</h2>
     </div>
 
-    <!-- Tekst openingstijden -->
-    <div id="text"><p><h2>U kunt alleen pizza's bestellen vanaf 17.00</h2></p></div>
-
-    <!-- Openingstijden -->
-    <table>
-            <tr>
-                <th>Openingstijden</th>
-            </tr>
-            <tr>
-                <td>Maandag</td>
-                <td>17.00 tot 22.00</td>
-            <tr>
-                <td>Dinsdag</td>
-                <td>17.00 tot 22.00</td>
-            </tr>
-                <td>Woensdag</td>
-                <td>17.00 tot 22.00</td>
-            <tr>
-                <td>Donderdag</td>
-                <td>17.00 tot 22.00</td>
-            </tr>
-            <tr>
-                <td>Vrijdag</td>
-                <td>17.00 tot 22.00</td>
-            </tr>
-            <tr>
-                <td>Zaterdag</td>
-                <td>17.00 tot 22.00</td>
-            </tr>
-                <td>Zondag</td>
-                <td>17.00 tot 22.00</td>
-            </tr>
-        <tfoot>
-            <tr>
-                <th colspan="2">We zijn iedere dag geopend!</th>
-            </tr>
-        </tfoot>
-    </table>
+    <!-- Tekst Soprano's deluxe -->
+    <div id="text"><p><h2 style="color:black">Soprano's Deluxe pizza's binnenkort beschikbaar </h2></p></div>
+    <br><br><br>
 
     <!--Footer-->
     <footer class="top-buffer">
