@@ -75,19 +75,11 @@ $result = $conn->query($sql);
       <!--Navigation-->
       <div class="container-fluid">
         <nav
-          class="navbar navbar-expand-md navbar-light fixed-top"
+          class="navbar navbar-expand navbar-light fixed-top"
           data-0="height: 59px;"
           data-100="height: 30px;">
         
-          <a class="navbar-brand" href="index.php">
-            <img
-              class="img-fluid logo"
-              src="img/Soprano small.svg"
-              alt=""
-              data-0="width: 80px;"
-              data-100="width: 50px;"
-              style="width: 50px; transform: scaleX(-1);"/>
-          </a>
+          <div class="navbar-brand logo" href="index.php"></div>
 
           <button
             class="navbar-toggler"
@@ -106,138 +98,87 @@ $result = $conn->query($sql);
               <li class="nav-item active">
                 <a class="nav-link" onclick="location.reload()">Home</a>
               </li>
-
-              <!-- Menu -->
               <li class="nav-item">
-                <a class="nav-link" href="menu.php">Menu</a>
+                <a class="nav-link" href="cart.php">Bestellen</a>
               </li>
-
-              <!-- Bestellen -->
-              <li class="nav-item">
-                <a class="nav-link" href="order.php">Bestellen</a>
-              </li>
-            </ul>
           </div>
         </nav>
       </div>
 
       <!--Info Container-->
       <div class="container-fluid">
-        <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Over Soprano's</h2>
+        <h2 class="text-center bot-buffer font-weight-bold" class="headNews"></h2>
         <div class="row d-flex justify-content-around">
-          <div class="card mb-3 col " style="max-width: 18rem;">
+          <div class="col-sm-4 col-md" style="max-width: 18rem;">
             <div class="card-header"></div>
             <div class="card-body">
 
             <!-- Bekijk ons menu -->
-              <a class="card-title" href="menu.php">Menu bekijken</a>
+              <a class="card-title" href="cart.php">Menu bekijken</a>
               <p class="card-text">Bekijk <del>ons</del> <ins>jouw</ins> menu!</p>
             </div>
           </div>
 
           <!-- Bestel een pizza -->
-          <div class="card mb-3 col " style="max-width: 18rem;">
+          <div class="col-sm-4 col-md" style="max-width: 18rem;">
             <div class="card-header"></div>
             <div class="card-body">
-              <a class="card-title" href="order.php">Pizza bestellen</a>
+              <a class="card-title" href="cart.php">Pizza bestellen</a>
               <p class="card-text">Bestel een pizza bij Soprano's!</p>
             </div>
           </div>
 
           <!-- Openingstijden -->
-          <div class="card mb-3 col" style="max-width: 18rem;">
+          <div class="col-sm-4 col-md" style="max-width: 18rem;">
             <div class="card-header"></div>
             <div class="card-body">
-              <a class="card-title" href="openingstijden.php" target="_blank">Openingstijden</a>
+              <a class="card-title" href="cart.php">Actie!</a>
               <p class="card-text">
-                Check hier onze openingstijden!
+                Alle pizza's na de eerste pizza heeft 50% korting!
               </p>
             </div>
           </div>
         </div>
         <!--End info container-->
-
+        <br>
         <!-- Over Soprano's -->
         <div class="container-fluid">
-          <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Over Soprano's</h2>
+          <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Over ons</h2>
           <div class="row d-flex justify-content-around">
-            <div class="card news-card col-3 buffer-small  " style="width: 18rem;">
-              <a
-                href="#Kom hier nog een link?"
-                target="_blank">
-                <img src="images/pizzza.png" class="card-img-top news-img" alt="..." style="height:238px"/></a>
+            <div class="col-sm-4 col-md" style="width: 18rem;">
+              <a href="cart.php">
+                <img src="img/pizzza.png" class="card-img-top news-img" alt="..." /></a>
 
               <!-- Soprano's deluxe -->
-              <div class="card-body">
+              <div class="col-sm-4 col-md">
                 <h4 class="card-text">2019. De nieuwe Sopranos Deluxe.</h4>
-                <a
-                  href="sopranosdeluxe.php"
-                  target="_blank"
-                  class="btn btn-news font-weight-bold">
-                  Coming soon!</a>
               </div>
             </div>
-
+            <br>
             <!-- De beste pizza's -->
-            <div class="card news-card col-3 buffer-small" style="width: 18rem;">
+            <div class="col-sm-4 col-md" style="width: 18rem;">
               <a
-                href="#Kom hier nog een link?"
-                target="_blank"
-                ><img src="images/depizza.jpg" class="card-img-top news-img" alt="..."
+                href="cart.php"
+                ><img src="img/Pizza-PNG-Picture.png" class="card-img-top news-img" alt="..."
               /></a>
-              <div class="card-body">
-                <h4 class="card-text">De beste pizza's</h4>
-                <a
-                  href="#Kom hier nog een link?"
-                  target="_blank"
-                  class="btn btn-news font-weight-bold"
-                  >Bestel NU!</a>
+              <div class="col-sm-4 col-md">
+                <h4 class="card-text">Neem eens een slice!</h4>
               </div>
             </div>
-
+            <br>
             <!-- Pizza's bestellen -->
-            <div class="card news-card col-3 buffer-small" style="width: 18rem;">
+            <div class="col-sm-4 col-md" style="width: 18rem;">
               <a
-                href="menu.php"
+                href="cart.php"
                 target="_blank">
               
                 <img src="img/bbq.png" class="card-img-top news-img" alt="..."/>
               </a>
-
-              <div class="card-body">
-                <h4 class="card-text">Soprano's overheerlijke pizza's</h4>
-                <a
-                  href="menu.php"
-                  target="_blank"
-                  class="btn btn-news font-weight-bold">
-                  Bestel NU!</a>
+              <div class="col-sm-4 col-md">
+                <h4 class="card-text">Echt heerlijk.</h4>
               </div>
             </div>
           </div>
-        </div>
-
-        <!-- Prijzen -->
-        <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Onze prijzen</h2>
-        <div class="container-fluid row">
-          <div class="col-sm"></div>
-
-        <?php
-          echo "<table class='text-center col' style='max-width: 80% !important;'>";
-          echo "<th>Naam</th> <th>Prijs</th> <th>Grootte</th>";
-          if ($result->num_rows > 0) {
-            // output data of each row
-            while ($row = $result->fetch_assoc()) {
-              echo str_replace(".", ",", "<tr> <td>" . $row["Item"] . "</td> <td>€" . ((float)$row["Prijs"]) / 100 . "</td> <td>" . $row["Grootte"] . "</td> </tr>");
-            }
-          } else {
-            echo "Het menu is leeg.";
-          }
-          echo "</table>";
-          
-          $conn->close();
-          ?>
-
-          <div class="col-sm"></div>
         </div>
       </div>
     </div>
@@ -247,7 +188,7 @@ $result = $conn->query($sql);
     <footer class="top-buffer">
           <div class="row">
             <div class="col-md-4 footer-name">
-              <span class="copyright">Copyright &copy; Pizzeria Soprano's</span>
+              <span class="copyright">Copyright &copy; Sopranos Pizza</span>
             </div>
 
             <div class="col-md-4">
