@@ -53,7 +53,7 @@
 
                 <img
                     class="img-fluid logo"
-                    src="img/favicon-194x194.png"
+                    src="img/Soprano small.svg"
                     alt=""
                     data-0="width: 80px;"
                     data-100="width: 50px;" /></a>
@@ -116,7 +116,8 @@
                 </li>
                 <li class="list-inline-item">
                     <a href="https://www.facebook.com/PizzaHut/" target="_blank">
-                    <i class="fab fa-facebook-f"></i>
+                    <i class="fab 
+                   a-facebook-f"></i>
                     </a>
                 </li>
                 <li class="list-inline-item">

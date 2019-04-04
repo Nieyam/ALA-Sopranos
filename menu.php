@@ -45,7 +45,7 @@
 
               <img
                 class="img-fluid logo"
-                src="img/favicon-194x194.png"
+                src="img/Soprano small.svg"
                 alt=""
                 data-0="width: 80px;"
                 data-100="width: 50px;"/></a>
