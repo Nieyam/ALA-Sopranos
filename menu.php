@@ -87,7 +87,7 @@
           <a
             href="#Kom hier nog een link?"
             target="_blank"
-            ><img src="images/formaggi.png" class="card-img-top news-img" alt="..."/>
+            ><img src="images/formaggi2.png" class="card-img-top news-img" alt="..."/>
           </a>
 
           <!--Pizza Formaggi -->
@@ -106,7 +106,7 @@
           <a
             href="#Kom hier nog een link?"
             target="_blank"
-            ><img src="images/pepperoni2.png" class="card-img-top news-img" alt="..."
+            ><img src="images/pepperonii.png" class="card-img-top news-img" alt="..."
           /></a>
           <div class="card-body">
             <h4 class="card-text">Pizza Pepperoni</h4>
@@ -118,14 +118,14 @@
           </div>
         </div>
 
-        <!--Pizza BBQ Bacon -->
+        <!--Pizza Garnaal -->
         <div class="card news-card col-3 buffer-small" style="width: 18rem;">
           <a
             href="#Kom hier nog een link?"
             target="_blank">
-            <img src="images/bbq.png" class="card-img-top news-img" alt="..."/> </a>
+            <img src="images/prawn.png" class="card-img-top news-img" alt="..."/> </a>
           <div class="card-body">
-            <h4 class="card-text">Pizza BBQ Bacon</h4>
+            <h4 class="card-text">Pizza Prawn Crab</h4>
             <a
               href="#Kom hier nog een link?"
               target="_blank"
@@ -159,7 +159,7 @@
           <a
             href="#Kom hier nog een link?"
             target="_blank"
-            ><img src="images/veggie.png" class="card-img-top" alt="..."
+            ><img src="images/veggie2.png" class="card-img-top" alt="..."
           /></a>
           <div class="card-body">
             <h4 class="card-text">Pizza Veggie</h4>
@@ -171,14 +171,14 @@
           </div>
         </div>
 
-        <!--Pizza Salami -->
+        <!--Pizza Spicy Italiano -->
         <div class="card news-card col-3 buffer-small" style="width: 18rem;">
           <a
             href="#Kom hier nog een link?"
             target="_blank">
-            <img src="images/salami.png" class="card-img-top" alt="..."/> </a>
+            <img src="images/spicy.png" class="card-img-top" alt="..."/> </a>
           <div class="card-body">
-            <h4 class="card-text">Pizza Salami</h4>
+            <h4 class="card-text">Pizza Spicy Italiano</h4>
             <a
               href="#Kom hier nog een link?"
               target="_blank"
