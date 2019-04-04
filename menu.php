@@ -37,16 +37,17 @@
       <nav
         class="navbar navbar-expand-md navbar-light fixed-top"
         data-0="height: 59px;"
-        data-100="height: 30px;"
-      >
-        <a class="navbar-brand" href="index.php"
-          ><img
+        data-100="height: 30px;">
+      
+        <a class="navbar-brand" href="index.php">
+
+          <img
             class="img-fluid logo"
             src="img/favicon-194x194.png"
             alt=""
             data-0="width: 80px;"
-            data-100="width: 50px;"
-        /></a>
+            data-100="width: 50px;"/></a>
+
         <button
           class="navbar-toggler"
           type="button"
@@ -54,8 +55,8 @@
           data-target="#navbarCollapse"
           aria-controls="navbarCollapse"
           aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
+          aria-label="Toggle navigation">
+        
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">

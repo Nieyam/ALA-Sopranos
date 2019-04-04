@@ -141,7 +141,7 @@ $result = $conn->query($sql);
         <div class="card mb-3 col" style="max-width: 18rem;">
           <div class="card-header"></div>
           <div class="card-body">
-            <a class="card-title" href="foo.php">Openingstijden</a>
+            <a class="card-title" href="openingstijden.php">Openingstijden</a>
             <p class="card-text">
               Check hier onze openingstijden!
             </p>
