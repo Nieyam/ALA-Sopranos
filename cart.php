@@ -154,7 +154,7 @@ if(filter_input(INPUT_GET, 'action') == 'delete'){
           <div class="products">
             <img class="img-responsive" src="img/pizza-hut-cheese-lovers.jpg" style="width: 100%;">
             <h4 class="text-info"><?php echo $product['Item']; ?></h4>
-            <h4><?php echo "€".($product['Prijs'] / 100) ?></h4>
+            <h4><?php echo "€".($product['Prijs'] / 100); ?></h4>
             <input type="text" name="quantity" class="form-control" value="1">
             <input type="hidden" name="name" value="<?php echo $product['Item']; ?>">
             <input type="hidden" name="price" value="<?php echo $product['Prijs']; ?>">
