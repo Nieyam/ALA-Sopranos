@@ -89,13 +89,14 @@ if(filter_input(INPUT_GET, 'action') == 'delete'){
       integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
       crossorigin="anonymous"
     ></script>
+    <link rel="icon" href="img/Soprano small.svg" type="image/x-icon" />
     <link rel="stylesheet" href="css/main.css" />
     <link rel="stylesheet" href="css/cart.css">
 </head>
 <body>
   <!--Jumbotron feature-->
   <div class="jumbotron paral" id="jumbo">
-        <h1 class="text-center">Soprano's Pizza</h1>
+        <h1 class="text-center">Sopranos Pizza</h1>
       </div>
 
       <!--Navigation-->
@@ -172,11 +173,11 @@ if(filter_input(INPUT_GET, 'action') == 'delete'){
       <table class="table">
         <tr><th colspan="5"><h3>Winkelwagen</h3></th></tr>
         <tr>
-          <th width="65%">Product Name</th>
+          <th width="65%">Product Naam</th>
           <th width="0%"></th>
-          <th width="15%">Quantity</th>
-          <th width="15%">Price</th>
-          <th width="5%">Action</th>
+          <th width="15%">Hoeveelheid</th>
+          <th width="15%">Prijs per stuk</th>
+          <th width="5%">Actie</th>
         </tr>
         <?php
         if(!empty($_SESSION['shopping_cart'])):
@@ -191,7 +192,7 @@ if(filter_input(INPUT_GET, 'action') == 'delete'){
           <td><?php echo "€".($product['price'] / 100); ?></td>
           <td>
             <a href="cart.php?action=delete&id=<?php echo $product['id']; ?>">
-              <div class="btn-danger">Remove</div>
+              <div class="btn-danger">Verwijder</div>
             </a>
           </td>
         </tr>
@@ -201,8 +202,8 @@ if(filter_input(INPUT_GET, 'action') == 'delete'){
           $total = $total / 2;
         ?>
         <tr>
-          <td colspan="3" align="right">Total</td>
-          <td align="right"><?php echo "€"; echo $total / 100; ?></td>
+          <td colspan="3" align="right">Totaal</td>
+          <td align="right"><?php $totalF = $total / 100; echo "€"; echo number_format($totalF, 2); ?></td>
           <td></td>
         </tr>
         <tr></tr>

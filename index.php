@@ -50,7 +50,7 @@
   <body style="overflow-x: hidden;">
       <!--Jumbotron feature-->
       <div class="jumbotron paral" id="jumbo">
-        <h1 class="text-center">Soprano's Pizza</h1>
+        <h1 class="text-center">Sopranos Pizza</h1>
       </div>
 
       <!--Navigation-->
@@ -105,7 +105,7 @@
             <div class="card-header"></div>
             <div class="card-body">
               <a class="card-title" href="cart.php">Pizza bestellen</a>
-              <p class="card-text">Bestel een pizza bij Soprano's!</p>
+              <p class="card-text">Bestel een pizza bij Sopranos!</p>
             </div>
           </div>
 
@@ -122,7 +122,7 @@
         </div>
         <!--End info container-->
         <br><br>
-        <!-- Over Soprano's -->
+        <!-- Over Sopranos -->
         <div class="container-fluid">
           <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Over</h2><br>
           <div class="row d-flex justify-content-around">
@@ -130,7 +130,7 @@
               <a href="cart.php">
                 <img src="img/pizzza.png" class="card-img-top news-img" alt="..." /></a>
 
-              <!-- Soprano's deluxe -->
+              <!-- Sopranos deluxe -->
               <div class="col-sm-4 col-md">
                 <h4 class="card-text">2019. De nieuwe Sopranos Deluxe.</h4>
               </div>
