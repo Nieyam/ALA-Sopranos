@@ -1,15 +1,3 @@
-<?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "sopranos";
-
-// Create connection
-$conn = new mysqli($servername, $username, $password, $dbname);
-
-$sql = "SELECT * FROM menu";
-$result = $conn->query($sql);
-?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
