@@ -16,14 +16,7 @@ $result = $conn->query($sql);
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Pizzeria Soprano's</title>
-
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <title>Pizzeria Soprano's</title>
-
+    <title>Home - Sopranos Pizza</title>
     <!--Bootstrap Css and Main Css-->
     <link
       rel="stylesheet"
@@ -66,7 +59,7 @@ $result = $conn->query($sql);
     </style>
   </head>
 
-  <body>
+  <body style="overflow-x: hidden;">
       <!--Jumbotron feature-->
       <div class="jumbotron paral" id="jumbo">
         <h1 class="text-center">Soprano's Pizza</h1>
@@ -140,10 +133,10 @@ $result = $conn->query($sql);
           </div>
         </div>
         <!--End info container-->
-        <br>
+        <br><br>
         <!-- Over Soprano's -->
         <div class="container-fluid">
-          <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Over ons</h2>
+          <h2 class="text-center bot-buffer font-weight-bold" class="headNews">Over</h2><br>
           <div class="row d-flex justify-content-around">
             <div class="col-sm-4 col-md" style="width: 18rem;">
               <a href="cart.php">
@@ -154,7 +147,7 @@ $result = $conn->query($sql);
                 <h4 class="card-text">2019. De nieuwe Sopranos Deluxe.</h4>
               </div>
             </div>
-            <br>
+            <br><br>
             <!-- De beste pizza's -->
             <div class="col-sm-4 col-md" style="width: 18rem;">
               <a
@@ -165,7 +158,7 @@ $result = $conn->query($sql);
                 <h4 class="card-text">Neem eens een slice!</h4>
               </div>
             </div>
-            <br>
+            <br><br>
             <!-- Pizza's bestellen -->
             <div class="col-sm-4 col-md" style="width: 18rem;">
               <a
