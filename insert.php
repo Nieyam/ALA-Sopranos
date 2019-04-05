@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "pos";
+$dbname = "sopranos";
 //connect to db
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 

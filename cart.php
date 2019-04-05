@@ -136,7 +136,7 @@ if(filter_input(INPUT_GET, 'action') == 'delete'){
   $servername = "localhost";
   $username = "root";
   $password = "";
-  $dbname = "pos";
+  $dbname = "sopranos";
 
   // Create connection
   $conn = new mysqli($servername, $username, $password, $dbname);
